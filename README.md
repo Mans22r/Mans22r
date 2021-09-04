@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![Mansoor Majeed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mans22r&show_icons=true&theme=radical)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mans22r)](https://github.com/Mans22r/github-readme-stats)
 
 
