@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src= "![Mansoor Majeed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mans22r&show_icons=true&theme=radical)">
+![Mansoor Majeed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mans22r&show_icons=true&theme=radical)
 
 
 ### Connect with me:
