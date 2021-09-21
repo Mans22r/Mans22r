@@ -1,7 +1,7 @@
 ### Hi there 👋
 
  <p align="center">
- <img src = "7zon.gif" width ="300">
+ <img src = "computerProgrammer.gif">
   <br /><br />
   <samp>
     I'm <a href="https://www.linkedin.com/in/mansoor-majeed-3760a4207/">Mansoor Majeed</a> currently a First year Computer Science and Engineering student at <a     href="http://www.kmeacollege.ac.in/">KMEA Engineering College, Ernakulam</a> and a Student Developer Lite .Interested in Web developing , App Developing ,Hacking.. etc and so on...
