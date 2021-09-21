@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello Folks 👋
 
  <p align="center">
  <img src = "computerProgrammer.gif">
