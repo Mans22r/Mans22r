@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+ <p align="center">
+ <img src = "images/7zon.gif" width ="300">
+  <br /><br />
+  <samp>
+    I'm <a href="https://www.linkedin.com/in/mansoor-majeed-3760a4207/">Mansoor Majeed</a> currently a First year Computer Science and Engineering student at <a     href="http://www.kmeacollege.ac.in/">KMEA Engineering College, Ernakulam</a> and a Student Developer Lite .Interested in Web developing , App Developing ,Hacking.. etc and so on...
+   I always like to Upgrade myself.
+  </samp>
+</p> 
+
+- 🌱 I’m currently learning Flutter,Ethical Hacking and Angular. 
+
 <!--
 **Mans22r/Mans22r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
