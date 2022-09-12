@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[twitter]: https://twitter.com/Mansoor78948272
+[twitter]: https://twitter.com/Mans22r
 [facebook]: https://www.facebook.com/mansoor.majeed.731
 [instagram]: https://instagram.com/_mans_22_r_/
-[linkedin]: https://linkedin.com/in/mansoor-majeed-3760a4207/
+[linkedin]: https://linkedin.com/in/mansoor-majeed/
