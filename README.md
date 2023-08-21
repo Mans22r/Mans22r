@@ -4,7 +4,7 @@
  <img src = "computerProgrammer.gif">
   <br /><br />
   <samp>
-    I'm <a href="https://www.linkedin.com/in/mansoor-majeed/">Mansoor Majeed</a> currently a Third year Computer Science and Engineering student at <a     href="http://www.kmeacollege.ac.in/">KMEA Engineering College, Ernakulam</a> and a Student Developer Lite .Interested in Web developing , App Developing ,Hacking.. etc and so on...
+    I'm <a href="https://www.linkedin.com/in/mansoor-majeed/">Mansoor Majeed</a> currently a Final year Computer Science and Engineering student at <a     href="http://www.kmeacollege.ac.in/">KMEA Engineering College, Ernakulam</a> and a Student Developer Lite. Interested in Web developing, App Developing,Hacking.. etc, and so on...
    I always like to Upgrade myself.
   </samp>
 </p> 
@@ -16,8 +16,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently studied at KMEA Engg collage , ERNAKULAM 
-- 🌱 I’m currently learning  PROGRAMMNG LANGUAGES
+- 🔭 I’m currently studying at KMEA Engg collage, ERNAKULAM 
+- 🌱 I’m currently learning  PROGRAMMING LANGUAGES
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
