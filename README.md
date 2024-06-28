@@ -4,7 +4,7 @@
  <img src = "computerProgrammer.gif">
   <br /><br />
   <samp>
-    I'm <a href="https://www.linkedin.com/in/mansoor-majeed/">Mansoor Majeed</a> currently a Final year Computer Science and Engineering student at <a     href="http://www.kmeacollege.ac.in/">KMEA Engineering College, Ernakulam</a> and a Student Developer Lite. Interested in Web developing, App Developing,Hacking.. etc, and so on...
+    I'm <a href="https://www.linkedin.com/in/mansoor-majeed/">Mansoor Majeed</a>Bachelor of Technology in Computer Science and Engineering graduate from <a     href="http://www.kmeacollege.ac.in/">KMEA Engineering College, Ernakulam</a> and a Student Developer Lite. Interested in Web developing, App Developing,Hacking.. etc, and so on...
    I always like to Upgrade myself.
   </samp>
 </p> 
