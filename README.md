@@ -8,7 +8,7 @@
   </samp>
 </p> 
 
-- 🌱 I’m currently learning React JS and Node JS. 
+- 🌱 I’m currently learning Flutter. 
 
 <!--
 **Mans22r/Mans22r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
